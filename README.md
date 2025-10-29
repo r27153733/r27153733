@@ -4,9 +4,7 @@
 <a href="https://hits.sh/github.com/r27153733/"><img alt="Hits" src="https://hits.sh/github.com/r27153733.svg"/></a> 
 [<img src="https://img.shields.io/badge/csbxd%20Blog-purple"/>](https://blog.csbxd.fun)
 
-A student at *Xi'an University of Finance and Economics, China*, majoring in Finance. 
-
-**I'd like to swim in the ocean of binaries rather than boring economics :)** 
+**Wider than the sky, deeper than the sea.** 
 
 Contact me: <a href=＂mailto:r27153733@gmail.com＂>r27153733@gmail.com</a>
 
